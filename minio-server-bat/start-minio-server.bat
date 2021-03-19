@@ -1,3 +1,5 @@
+@echo off
+
 echo minio login
 setx MINIO_ROOT_USER admin
 setx MINIO_ROOT_PASSWORD password

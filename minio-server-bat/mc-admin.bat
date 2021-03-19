@@ -1,3 +1,6 @@
+@echo off
+
+
 echo encontar PATH local
 set mypath=%cd%
 
